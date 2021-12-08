@@ -8,7 +8,6 @@ class FlutterRouteWidget extends StatefulWidget {
   final Map? params;
   final String? message;
   final String? uniqueId;
-  final String? test;
 
   @override
   _FlutterRouteWidgetState createState() => _FlutterRouteWidgetState();
